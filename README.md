@@ -1,4 +1,4 @@
-# powerShellShortCutDirectoryChange
+# Power shell guide for script execution using short cuts
 Short cut function implementation for power-shell shortcut
 
 Steps to do to create power shell short cut for easier folder navigation or command execute.
@@ -21,4 +21,6 @@ function cngDir{
 } 
 ```
 5. Save the file and now you can use the function name as shortcut to be used to <br/> change driectory from any directory to C:\Users\Default\Documents
+6. You can just keep adding functions to the file for new short cut access. <br/>You just have to change the function name and the script inside the function to your execution script.
+
   
